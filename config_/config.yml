@@ -1,0 +1,7 @@
+DATA:
+  RAW_DATA_DIR: raw_data
+  PREDICATE_DATA_OUTPUT_DIR: classfication_data
+  SEQUENCE_DATA_OUTPUT_DIR: SKE_2019_tokened_labeling
+
+MODEL:
+  MODEL_DIR: roberta_zh_l12

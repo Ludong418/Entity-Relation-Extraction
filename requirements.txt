@@ -1,0 +1,7 @@
+Flask_Cors==3.0.7
+tensorflow_serving_api==1.13.0
+Flask_RESTful==0.3.6
+grpcio==1.19.0
+Flask==1.0.2
+numpy==1.15.3
+PyYAML==5.3.1
